@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Parthiv! 👋
+**Passionate Dev | Problem Solver | Always Learning**
 
-<!--
-**parthivkumar04/parthivkumar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy diving deep into machine learning, building full-stack applications, and exploring 2D game development. 
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+* **Languages:** Python, JavaScript, Java, C++, Bash, SQL
+* **Web Dev:** React, Node.js, MongoDB, Flask
+* **Data & ML:** Hadoop, Spark, Jupyter
+* **Tools:** Docker, Kubernetes, Godot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Highlighted Projects
+* 🤖 **AI-Powered Content Management:** An organizational tool built for college.
+* 🎬 **Movie Booking App:** A Python GUI linked to a MySQL database.
+* 📄 **Resume Creator:** A full-stack webapp with a React frontend and Node/MongoDB backend.
+* 🏠 **AirBnB Price Prediction:** A machine learning model built in Jupyter Notebooks.
+
+### 📈 GitHub Stats
+![Parthiv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthivkumar04&show_icons=true&theme=tokyonight)
