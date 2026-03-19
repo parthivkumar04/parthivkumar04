@@ -1,5 +1,4 @@
-# N Parthiv Kumar
-Student
+# Parthiv Kumar
 
 I am a Computer Science Engineering student with intrest in full stack development , data science and creative design .
 
