@@ -1,19 +1,20 @@
-# Hi there, I'm Parthiv! 👋
-**Passionate Dev | Problem Solver | Always Learning**
+# N Parthiv Kumar
+Student
 
-I enjoy diving deep into machine learning, building full-stack applications, and exploring 2D game development. 
+I am a Computer Science Engineering student with intrest in full stack development , data science and creative design .
 
-### 💻 Tech Stack
-* **Languages:** Python, JavaScript, Java, C++, Bash, SQL
-* **Web Dev:** React, Node.js, MongoDB, Flask
-* **Data & ML:** Hadoop, Spark, Jupyter
-* **Tools:** Docker, Kubernetes, Godot
+### Skills 7 Technologies Experienced 
 
-### 🚀 Highlighted Projects
-* 🤖 **AI-Powered Content Management:** An organizational tool built for college.
-* 🎬 **Movie Booking App:** A Python GUI linked to a MySQL database.
-* 📄 **Resume Creator:** A full-stack webapp with a React frontend and Node/MongoDB backend.
-* 🏠 **AirBnB Price Prediction:** A machine learning model built in Jupyter Notebooks.
+* **Programming Languages:** Python, Java, C, C++, JavaScript, Bash, SQL
+* **Machine Learning & AI:** Deep Learning (CNNs, RNNs, LSTMs, GANs, Transformers), Transfer Learning, Random Forest, Computer Vision
+* **Big Data:** Hadoop, Spark, Kafka, Hive
+* **Web Development:** Flask, React, Node.js
+* **Databases:** MySQL, MongoDB
+* **DevOps & Tools:** Docker, Kubernetes, Git, Linux command-line utilities
+* **Game Development:** Godot Engine
 
-### 📈 GitHub Stats
-![Parthiv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthivkumar04&show_icons=true&theme=tokyonight)
+### GitHub Page:
+
+
+### GitHub Statistics
+![Parthiv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthivkumar04&show_icons=false&theme=transparent&hide_border=true&title_color=black&text_color=black)
