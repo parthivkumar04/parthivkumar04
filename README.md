@@ -12,7 +12,7 @@ I am a Computer Science Engineering student with intrest in full stack developme
 * **DevOps & Tools:** Docker, Kubernetes, Git, Linux command-line utilities
 * **Game Development:** Godot Engine
 
-### GitHub Page:
+### GitHub Pages:
 
 
 ### GitHub Statistics
