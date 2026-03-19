@@ -2,7 +2,7 @@
 
 I am a Computer Science Engineering student with intrest in full stack development , data science and creative design .
 
-### Skills 7 Technologies Experienced 
+### Skills & Technologies Experienced 
 
 * **Programming Languages:** Python, Java, C, C++, SQL
 * **Machine Learning & AI:** Deep Learning (CNNs, RNNs, LSTMs, GANs, Transformers), Computer Vision & NLP
