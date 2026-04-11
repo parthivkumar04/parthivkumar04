@@ -7,10 +7,9 @@ I am a Computer Science Engineering student with intrest in AI models , full sta
 * **Programming Languages:** Python, Java, C, JavaScript , SQL
 * **AI:** Deep Learning models, Machine Learning models 
 * **FullStack:**
-* **Big Data:** Hadoop, Spark, Kafka, Hive
 * **CloudComputing:**
-* **OperatingSystems:**
-* **Databases:** MySQL, MongoDB 
+* **Databases:** MySQL, MongoDB
+* **AI_tools:**
 
 ### GitHub Pages
 
