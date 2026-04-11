@@ -1,16 +1,16 @@
 # Parthiv Kumar
 
-I am a Computer Science Engineering student with intrest in full stack development , data science and creative design .
+I am a Computer Science Engineering student with intrest in AI models , full stack app dev , data science and creative design .
 
-### Skills & Technologies Experienced 
+### Courses & Skilss
 
-* **Programming Languages:** Python, Java, C, C++, SQL
-* **Machine Learning & AI:** Deep Learning (CNNs, RNNs, LSTMs, GANs, Transformers), Computer Vision & NLP
+* **Programming Languages:** Python, Java, C, JavaScript , SQL
+* **AI:** Deep Learning models, Machine Learning models 
+* **FullStack:**
 * **Big Data:** Hadoop, Spark, Kafka, Hive
-* **Web Development:** React, Node.js, HTML5, CSS, Js
-* **Databases:** MySQL, MongoDB
-* **DevOps & Tools:** Docker, Kubernetes, Git, Linux command-line utilities
-
+* **CloudComputing:**
+* **OperatingSystems:**
+* **Databases:** MySQL, MongoDB 
 
 ### GitHub Pages
 
