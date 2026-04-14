@@ -12,7 +12,6 @@ I am a Computer Science Engineering student with intrest in AI models , full sta
 * **AI_tools:**
 
 ### GitHub Pages
-📓[College Notes](https://parthivkumar04.github.io/my-notes/)
 
 ### GitHub Statistics
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthivkumar04&show_icons=true&hide_border=true)
