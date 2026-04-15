@@ -10,8 +10,3 @@ I am a Computer Science Engineering student with intrest in AI models , full sta
 * **CloudComputing:**
 * **Databases:** MySQL, MongoDB
 * **AI_tools:**
-
-### GitHub Pages
-
-### GitHub Statistics
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthivkumar04&show_icons=true&hide_border=true)
